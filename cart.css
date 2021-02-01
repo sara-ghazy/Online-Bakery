@@ -1,0 +1,132 @@
+body
+{
+
+	background-image:url("image/BK.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	
+}
+.shop{
+	position:absolute;
+	top:8%;
+	left:10%;
+	font-size:100px;
+	color:#660000;
+	 text-decoration: underline
+}
+.home
+{
+	height:32;
+	width:393;
+	position:absolute;
+	top:30%;
+	left:11%;
+	font-size:20px;
+	background-color:white;
+	color:#660000;
+}
+
+.cart
+{
+	height:32;
+	width:450;
+	position:absolute;
+	top:30%;
+	left:36%;
+	font-size:20px;
+	background-color:white;
+	color:#660000;
+}
+
+.logout
+{
+	height:32;
+	width:450;
+	position:absolute;
+	top:30%;
+	left:65%;
+	font-size:20px;
+	background-color:white;
+	color:#660000;
+}
+.box{
+	background-color:white;
+	width:1170;
+	height:245;
+	position:absolute;
+	top:65%;
+	left:52%;
+	transform:translate(-50%,-50%);
+	box-sizing:bolder-box;
+	padding :75px 25px;
+	border-radius:15px;
+}
+
+.txt{
+	position:absolute;
+	top:8%;
+	left:44%;
+	font-size:30px;
+}
+
+table{
+	border-collapse:collapse;
+	width:30%;
+	position:absolute;
+	top:23%;
+	left:32%;
+	
+}
+
+th
+{
+	height:33px;
+	text-align:center;
+	background-color:#660000;
+	color:white;
+}
+
+td{
+	height:32px;
+	text-align:center;
+}
+.boxx{
+	background-color:#660000;
+	width:170;
+	height:150;
+	position:absolute;
+	top:50%;
+	left:80%;
+	transform:translate(-50%,-50%);
+	box-sizing:bolder-box;
+	padding :75px 25px;
+	border-radius:15px;
+}
+.total
+{
+position:absolute;
+left:73%;
+top:19%;
+color:white;
+font-size:20px;
+}
+.del
+{
+position:absolute;
+top:30%;
+}
+.cancel
+{
+position:absolute;
+top:36%;
+
+height:30;
+width:60;
+}
+.order{
+position:absolute;
+top:65%;
+left:27%;
+border-radius:15px;
+height:35;
+}

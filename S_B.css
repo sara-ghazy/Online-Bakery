@@ -1,0 +1,165 @@
+body
+{
+
+	background-image:url("image/BK.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	
+}
+.shop{
+	position:absolute;
+	top:8%;
+	left:10%;
+	font-size:100px;
+	color:#660000;
+	 text-decoration: underline
+}
+.home
+{
+	height:32;
+	width:450;
+	position:absolute;
+	top:30%;
+	left:10%;
+	font-size:20px;
+	background-color:white;
+	color:#660000;
+}
+
+.cart
+{
+	height:32;
+	width:450;
+	position:absolute;
+	top:30%;
+	left:36%;
+	font-size:20px;
+	background-color:white;
+	color:#660000;
+}
+
+.logout
+{
+	height:32;
+	width:450;
+	position:absolute;
+	top:30%;
+	left:65%;
+	font-size:20px;
+	background-color:white;
+	color:#660000;
+}
+.box{
+	background-color:white;
+	width:1100;
+	height:245;
+	position:absolute;
+	top:65%;
+	left:52%;
+	transform:translate(-50%,-50%);
+	box-sizing:bolder-box;
+	padding :75px 25px;
+	border-radius:15px;
+	
+	
+}
+.text{
+position:absolute;
+	top:2%;
+	left:38%;
+	font-size:60px;
+	color:#660000;
+	
+}
+.bread
+{
+	background-color:white;
+	height:200;
+	width:200;
+	position:absolute;
+	top:30%;
+	left:10%;
+	border-radius:15px;
+	background-image:url("image/breads.png");
+	background-size:200px 150px;
+	background-repeat:no-repeat;
+	border-color:#660000;
+}
+
+.cookie
+{
+	background-color:white;
+	height:200;
+	width:200;
+	position:absolute;
+	top:30%;
+	left:31.5%;
+	border-radius:15px;
+	background-image:url("image/cookies.png");
+	background-size:200px 150px;
+	background-repeat:no-repeat;
+	border-color:#660000;
+}
+
+.cake
+{
+	background-color:white;
+	height:200;
+	width:200;
+	position:absolute;
+	top:30%;
+	left:53%;
+	border-radius:15px;
+	background-image:url("image/cake.png");
+	background-size:200px 150px;
+	background-repeat:no-repeat;
+	border-color:#660000;
+}
+
+.pastrie
+{
+	background-color:white;
+	height:200;
+	width:200;
+	position:absolute;
+	top:30%;
+	left:74%;
+	border-radius:15px;
+	background-image:url("image/pastries.png");
+	background-size:200px 150px;
+	background-repeat:no-repeat;
+	border-color:#660000;
+}
+
+
+.part1{
+	position:absolute;
+	top:70%;
+	left:15.5%;
+	font-size:25px;
+	font-weight:bold;
+}
+.part2{
+	position:absolute;
+	top:70%;
+	left:36.5%;
+	font-size:25px;
+	font-weight:bold;
+}
+
+
+.part3{
+	position:absolute;
+	top:70%;
+	left:59%;
+	font-size:25px;
+	font-weight:bold;
+}
+
+.part4{
+	position:absolute;
+	top:70%;
+	left:79%;
+	font-size:25px;
+	font-weight:bold;
+}

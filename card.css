@@ -1,0 +1,114 @@
+body
+{
+
+	background-image:url("image/BK.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	
+}
+.shop{
+	position:absolute;
+	top:8%;
+	left:10%;
+	font-size:100px;
+	color:#660000;
+	 text-decoration: underline
+}
+.home
+{
+	height:32;
+	width:393;
+	position:absolute;
+	top:30%;
+	left:11%;
+	font-size:20px;
+	background-color:white;
+	color:#660000;
+}
+
+.cart
+{
+	height:32;
+	width:450;
+	position:absolute;
+	top:30%;
+	left:36%;
+	font-size:20px;
+	background-color:white;
+	color:#660000;
+}
+
+.logout
+{
+	height:32;
+	width:450;
+	position:absolute;
+	top:30%;
+	left:65%;
+	font-size:20px;
+	background-color:white;
+	color:#660000;
+}
+.box{
+	background-color:white;
+	width:1170;
+	height:245;
+	position:absolute;
+	top:65%;
+	left:52%;
+	transform:translate(-50%,-50%);
+	box-sizing:bolder-box;
+	padding :75px 25px;
+	border-radius:15px;
+}
+
+.boxx{
+	background-color:#660000;
+	width:700;
+	height:155;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	box-sizing:bolder-box;
+	padding :75px 25px;
+	border-radius:15px;
+}
+
+.txt
+{
+	font-size:30px;
+	color:white;
+	position:absolute;
+	left:30%;
+	top:10%;
+}
+
+
+.cr
+{
+	font-size:30px;
+	color:white;
+	position:absolute;
+	left:30%;
+	top:30%;
+}
+
+.cv
+{
+	font-size:30px;
+	color:white;
+	position:absolute;
+	left:30%;
+	top:50%;
+}
+
+.done
+{
+	position:absolute;
+	left:45%;
+	top:70%;
+	width:120;
+	height:50;
+	border-radius:15px;
+}

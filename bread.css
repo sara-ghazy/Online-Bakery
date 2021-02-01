@@ -1,0 +1,198 @@
+body
+{
+
+	background-image:url("image/BK.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	
+}
+.shop{
+	position:absolute;
+	top:8%;
+	left:10%;
+	font-size:100px;
+	color:#660000;
+	 text-decoration: underline
+}
+.home
+{
+	height:32;
+	width:450;
+	position:absolute;
+	top:30%;
+	left:10%;
+	font-size:20px;
+	background-color:white;
+	color:#660000;
+}
+
+.cart
+{
+	height:32;
+	width:450;
+	position:absolute;
+	top:30%;
+	left:36%;
+	font-size:20px;
+	background-color:white;
+	color:#660000;
+}
+
+.logout
+{
+	height:32;
+	width:450;
+	position:absolute;
+	top:30%;
+	left:65%;
+	font-size:20px;
+	background-color:white;
+	color:#660000;
+}
+.box{
+	background-color:white;
+	width:1170;
+	height:245;
+	position:absolute;
+	top:65%;
+	left:52%;
+	transform:translate(-50%,-50%);
+	box-sizing:bolder-box;
+	padding :75px 25px;
+	border-radius:15px;
+}
+.text{
+position:absolute;
+	top:2%;
+	left:35%;
+	font-size:60px;
+	color:#660000;
+	
+}
+table{
+	border-collapse:collapse;
+	width:55%;
+	position:absolute;
+	top:50%;
+	left:18.3%;
+	
+}
+
+th
+{
+	height:33px;
+	text-align:center;
+}
+
+td{
+	height:54px;
+	text-align:center;
+}
+.p1{
+	width:63px;
+	height:50px;
+	position:absolute;
+	top:30%;
+	left:56%;
+}
+
+.p2{
+	width:63px;
+	height:50px;
+	position:absolute;
+	top:44.5%;
+	left:56%;
+}
+
+.p3{
+	width:63px;
+	height:50px;
+	position:absolute;
+	top:58.5%;
+	left:56%;
+}
+
+.p4{
+	width:63px;
+	height:50px;
+	position:absolute;
+	top:72.5%;
+	left:56%;
+}
+
+.p5{
+	width:63px;
+	height:50px;
+	position:absolute;
+	top:85.5%;
+	left:56%;
+}
+
+.box_order
+{
+	background:#660000;
+	width:180;
+	height:168;
+	text-align:center;
+	position:absolute;
+	top:70%;
+	left:83%;
+	transform:translate(-50%,-50%);
+	overflow:hidden;
+	box-sizing:bolder-box;
+	padding :75px 25px;
+	border:none;
+	border-radius:15px;
+	box-shadow:0 3px 0 gray;
+}
+.qr1{
+	width:133;
+	border:none;
+	border-radius:15px;
+	box-shadow:0 3px 0 gray;
+}
+
+.qr2{
+	width:133;
+	border:none;
+	border-radius:15px;
+	box-shadow:0 3px 0 gray;
+}
+
+.qr3{
+	width:133;
+	border:none;
+	border-radius:15px;
+	box-shadow:0 3px 0 gray;
+}
+
+.qr4{
+	width:133;
+	border:none;
+	border-radius:15px;
+	box-shadow:0 3px 0 gray;
+}
+
+.qr5{
+	width:133;
+	border:none;
+	border-radius:15px;
+	box-shadow:0 3px 0 gray;
+}
+.order_bread
+{
+	position:absolute;
+	top:8%;
+	left:21%;
+	font-size:30px;
+	color:white;
+	font-weight:border;
+}
+.orderB
+{
+	border-radius:15px;
+	box-shadow:0 3px 0 gray;
+	height:40;
+	width:90;
+    
+}
